@@ -33,13 +33,6 @@
 
 ---
 
-
-
-
-  
-
----
-
 ## 🌟 **Proyectos destacados**
 Aquí tienes algunos de los proyectos en los que he trabajado:
 
@@ -57,7 +50,7 @@ Aquí tienes algunos de los proyectos en los que he trabajado:
 
 ## 📫 **Contacto**
 - **Correo:** reinadinas.marlon@gamil.com    
-- **Portafolio:** [Portafolio Reina Marlon](https://reinamarlon.github.io/reinamarlon/)  
+- **Portafolio:** [Visitar portafolio](https://reinamarlon.github.io/marlonReina/)
 
 ---
 
