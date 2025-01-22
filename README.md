@@ -49,7 +49,7 @@ Aquí tienes algunos de los proyectos en los que he trabajado:
 ---
 
 ## 📫 **Contacto**
-- **Correo:** reinadinas.marlon@gamil.com    
+- **Correo:** reinadinas.marlon@gmail.com    
 - **Portafolio:** [Visitar portafolio](https://reinamarlon.github.io/marlonReina/)
 
 ---
