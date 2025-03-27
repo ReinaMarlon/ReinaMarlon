@@ -40,11 +40,6 @@ Aquí tienes algunos de los proyectos en los que he trabajado:
 - **Tecnologías usadas:** HTML, CSS, JavaScript.  
 - **Enlace:** [Visitar proyecto](https://cced.com.co)
 
-### 2. [JA Aluvidrios Landing Page]()
-- **Descripción:** [Breve descripción].  
-- **Tecnologías usadas:** HTML, CSS, JavaScript.  
-- **Enlace:** [Visitar proyecto]()
-
 ---
 
 ## 📫 **Contacto**
