@@ -27,7 +27,6 @@
 ---
 
 - **Otras herramientas**
-  - Git
   - Ilustrator y Balsamiq para diseño de interfaces
   - FileZilla para conexiones remotas a host web
 
