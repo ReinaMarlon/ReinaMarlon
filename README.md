@@ -1,24 +1,26 @@
-# 👋 Hola, soy Marlon Reina
+# Hola, soy Marlon Reina
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador fullstack apasionado por crear experiencias digitales funcionales y atractivas. Aquí podrás encontrar mis proyectos, habilidades y un poco sobre mi formación.
+¡Bienvenido a mi perfil de GitHub! Soy desarrollador backend especializado en Java y Spring Boot, enfocado en la construcción de APIs robustas, escalables y mantenibles. Aquí podrás encontrar mis proyectos, habilidades y experiencia profesional.
+---
+
+## **Sobre mí**
+- Soy desarrollador con frontend +2 años de experiencia en diseño, desarrollo de sitios web, diseño de aplicaciones empresariales y desarrollador backend con +1 año de experiencia en Java y Spring Boot.
+- Experiencia trabajando en Globant en entornos empresariales
+- Enfocado en desarrollo de APIs REST, arquitectura limpia y buenas prácticas
+- Experiencia en CI/CD utilizando GitHub Actions y despliegue continuo en Railway
+- Aplicación de principios OOP, SOLID y Clean Architecture
+- Actualmente ampliando conocimientos para desarrollo en Angular y en infraestructura y buenas prácticas.
 
 ---
 
-## 🚀 **Sobre mí**
-- 🎯 Soy desarrollador independiente con experiencia en diseño, desarrollo de sitios web, diseño de aplicaciones empresariales.
-- 🌟 Me especializo en la creación de **landing pages**, aplicaciones web y soluciones personalizadas.
-- 🎓 Actualmente, estoy ampliando mis conocimientos en [Manejo de infraestructura TI e Inteligencia artificial].
-
----
-
-## 📚 **Formación**
+## **Formación**
 - **Técnico en desarrollo de software** – [SENA](https://oferta.senasofiaplus.edu.co/sofia-oferta/)
 - **Técnico en sistemas** – [CCED](https://cced.com.co/)  
-- **Tecnologo en analisis y desarrollo de software** – [SENA - (Cursando 5to Trimestre)]
+- **Tecnologo en analisis y desarrollo de software** – [SENA - (Pendiente por certificación.)]
  
 ---
 
-## 🛠️ **Habilidades técnicas**
+## **Habilidades técnicas**
 
 |**Lenguajes de programación**|**Frameworks**|**Bases de datos**|**Herramientas**|
 |:---:|:---|:---|:---|
@@ -27,12 +29,14 @@
 ---
 
 - **Otras herramientas**
-  - Ilustrator y Balsamiq para diseño de interfaces
-  - FileZilla para conexiones remotas a host web
+  - Swagger / OpenAPI para documentación de APIs
+  - Postman para pruebas de endpoints
+  - Balsamiq para prototipado básico
+  - FileZilla para conexiones remotas
 
 ---
 
-## 🌟 **Proyectos destacados**
+## **Proyectos destacados**
 Aquí tienes algunos de los proyectos en los que he trabajado:
 
 ### 1. [CCED Landing Page](https://cced.com.co)
@@ -42,17 +46,21 @@ Aquí tienes algunos de los proyectos en los que he trabajado:
 
 ---
 
-## 📫 **Contacto**
+## **Contacto**
 - **Correo:** reinadinas.marlon@gmail.com    
-- **Portafolio:** [Visitar portafolio](https://reinamarlon.github.io/marlonReina/)
+- **Portafolio:** en construcción.
 
 ---
 
-## 💡 **Intereses**
+## **Intereses**
+- Desarrollo backend con Java
+- Arquitectura de software
+- DevOps y automatización (CI/CD)
+- APIs escalables y sistemas distribuidos
 - Desarrollo web full-stack
 - Diseño UX/UI
 - Nuevas tecnologías y frameworks
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+¡Gracias por visitar mi perfil!
