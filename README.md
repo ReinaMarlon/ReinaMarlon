@@ -44,6 +44,19 @@ Aquí tienes algunos de los proyectos en los que he trabajado:
 - **Tecnologías usadas:** HTML, CSS, JavaScript.  
 - **Enlace:** [Visitar proyecto](https://cced.com.co)
 
+### 2. [Personal Java Discord Bot]
+- **Descripción:** Desarrollo de un bot para Discord orientado a la automatización de tareas y gestión de interacciones en servidores.
+- **Tecnologías usadas:** usadas: Java, JDA (Java Discord API)
+- **Características clave:**
+  - Manejo de eventos y comandos personalizados
+  - Integración con APIs externas
+  - Arquitectura modular para escalabilidad
+  - Manejo de concurrencia y asincronía
+- **Extras:**
+  - Despliegue en entorno cloud (Railway)
+  - Integración básica de CI/CD con GitHub Actions
+- **Repositorio:** [Enlace aquí](https://github.com/ReinaMarlon/java-discord-bot)
+
 ---
 
 ## **Contacto**
