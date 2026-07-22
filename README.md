@@ -61,7 +61,7 @@ Aquí tienes algunos de los proyectos en los que he trabajado:
 
 ## **Contacto**
 - **Correo:** reinadinas.marlon@gmail.com    
-- **Portafolio:** en construcción.
+- **Portafolio:** [Enlace aquí](https://reinamarlon.github.io/portfolio/)
 
 ---
 
