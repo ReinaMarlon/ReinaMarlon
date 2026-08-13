@@ -1,15 +1,18 @@
 # Hola, soy Marlon Reina
 
-¡Bienvenido a mi perfil de GitHub! Soy desarrollador backend especializado en Java y Spring Boot, enfocado en la construcción de APIs robustas, escalables y mantenibles. Aquí podrás encontrar mis proyectos, habilidades y experiencia profesional.
----
+## ¡Bienvenido a mi perfil de GitHub! Soy Ingeniero de Software especializado en desarrollo backend con Java y Spring Boot, enfocado en la construcción de APIs, microservicios y soluciones de software empresariales robustas, escalables y mantenibles. Aquí podrás encontrar mis proyectos, habilidades y experiencia profesional.
 
 ## **Sobre mí**
-- Soy desarrollador con frontend +2 años de experiencia en diseño, desarrollo de sitios web, diseño de aplicaciones empresariales y desarrollador backend con +1 año de experiencia en Java y Spring Boot.
-- Experiencia trabajando en Globant en entornos empresariales
-- Enfocado en desarrollo de APIs REST, arquitectura limpia y buenas prácticas
-- Experiencia en CI/CD utilizando GitHub Actions y despliegue continuo en Railway
-- Aplicación de principios OOP, SOLID y Clean Architecture
-- Actualmente ampliando conocimientos para desarrollo en Angular y en infraestructura y buenas prácticas.
+
+- Ingeniero de Software con +3 años de experiencia profesional en desarrollo de software y experiencia especializada en backend con Java y Spring Boot.
+- Experiencia profesional en Globant, trabajando en entornos empresariales y bancarios.
+- Experiencia en desarrollo de APIs REST, microservicios y desarrollo basado en contratos con OpenAPI/Swagger.
+- Experiencia desarrollando herramientas internas y automatización mediante Java, Maven, Apache Velocity y generación de código.
+- Experiencia con CI/CD, Git, Jenkins, GitHub Actions y procesos de desarrollo bajo metodologías Agile/Scrum.
+- Aplicación de principios OOP, SOLID, Clean Architecture y buenas prácticas de desarrollo.
+- Experiencia con JPA/Hibernate, SQL y bases de datos relacionales.
+- Experiencia en el desarrollo end-to-end de aplicaciones, desde el levantamiento de requerimientos y diseño de soluciones hasta pruebas, producción y entrega.
+- Actualmente ampliando conocimientos en arquitectura de software, Docker, Kubernetes, cloud y desarrollo de aplicaciones modernas.
 
 ---
 
